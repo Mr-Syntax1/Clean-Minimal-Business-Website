@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-[**🔗 View Live Demo**](https://yourusername.github.io/CleanMinimal/)  
+[**🔗 View Live Demo**](https://mr-syntax1.github.io/Clean-Minimal-Business-Website/)  
 
 
 ## 🚀 Overview
