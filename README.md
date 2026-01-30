@@ -28,7 +28,7 @@ This project is perfect for businesses, portfolios, or anyone who wants a **mini
   - Individual and total file size limits
   - Full Name, Email, and Description fields
   - Required consent checkbox
-  - Lightweight backend support via AJAX (`upload.php`)(backend is not complete)
+  - Lightweight backend support via AJAX (`upload.php`) (backend is not complete!!)
 - Smooth scroll for internal links
 - Fully responsive on mobile, tablet, and desktop
 - Clean and maintainable code (HTML/CSS/JS)
